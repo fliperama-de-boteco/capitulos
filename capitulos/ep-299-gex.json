@@ -1,0 +1,21 @@
+{
+	"version": "1.2.0",
+	"chapters": [
+		{
+			"startTime": 0,
+			"title": "Abertura"
+		},
+		{
+			"startTime": 1117,
+			"title": "Vinheta"
+		},
+		{
+			"startTime": 1156,
+			"title": "Vamos pra pauta!"
+		},
+		{
+			"startTime": 6938,
+			"title": "Disclaimers"
+		}
+	]
+}
