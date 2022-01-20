@@ -1,0 +1,33 @@
+{
+	"version": "1.2.0",
+	"chapters": [
+		{
+			"startTime": 0,
+			"title": "Abertura"
+		},
+		{
+			"startTime": 53,
+			"title": "Raspberry PI"
+		},
+		{
+			"startTime": 97,
+			"title": "RGB-PI"
+		},
+		{
+			"startTime": 286,
+			"title": "O Software"
+		},
+		{
+			"startTime": 325,
+			"title": "Sistemas Suportados"
+		},
+		{
+			"startTime": 422,
+			"title": "O Preço e onde comprar"
+		},
+		{
+			"startTime": 463,
+			"title": "Conexões e Instalação"
+		}
+	]
+}
