@@ -4,6 +4,8 @@ Você pode contribuir fazendo uma bifurcação (_fork_) desse repositório e env
 
 Caso você não tenha experiência com GitHub e Pull Requests, você pode aprender com [esse guia](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
+Se por algum motivo você não quiser usar Pull Requests, você pode propor a criação de capítulos usando _issues_ no GitHub. Clique [aqui](https://github.com/fliperama-de-boteco/capitulos/issues/new/choose) para criar uma issue.
+
 ## Como adicionar capítulos
 
 Você pode editar os capítulos já existentes na pasta [capitulos](./capitulos), ou criar novos arquivos de capítulos para os episódios que ainda não possuem capítulos.
