@@ -1,0 +1,48 @@
+{
+	"version": "1.2.0",
+	"chapters": [
+		{
+			"startTime": 0,
+			"title": "Abertura" 
+		},
+		{
+			"startTime": 319,
+			"title": "Vinheta"
+		},
+		{
+			"startTime": 369,
+			"title": "Introdução do jogo"
+		},
+        {
+			"startTime": 698,
+			"title": "Bobyb bombastic - sucessor espiritual do H.E.R.O.",
+            "url": "https://pixel.games/bobbybombastic/",
+            "img": "https://pixel.games/bobbybombastic/images/Bobby%20Bombastic%20Artwork%20portrait.png"
+		},
+		{
+			"startTime": 811,
+			"title": "Como conhecemos o jogo?"
+		},
+        {
+			"startTime": 953,
+			"title": "Desenvolvimento"
+		},
+        {
+			"startTime": 1739,
+			"title": "História"
+		},
+        {
+			"startTime": 1990,
+			"title": "Manual do Jogo - Milhonário Texano Filantropo",
+            "img": "https://i.ebayimg.com/images/g/J1oAAOSwQ35fBQL0/s-l640.jpg"
+		},
+        {
+			"startTime": 4524,
+			"title": "Disclaimers"
+		},
+        {
+			"startTime": 4992,
+			"title": "Cenas pós créditos"
+		}
+	]
+}
